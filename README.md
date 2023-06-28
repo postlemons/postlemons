@@ -42,7 +42,7 @@ I've been learning how to code in JavaScript for 3 years, I spent a lot of time 
 
 <a href="https://github.com/itsmohamed205" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohamed205&langs_count=10&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages Used" /></a>
 
-<a href="http://www.github.com/itsmohamed205"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmohamed205&layout=compact&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff" alt="Wakatime Stats" /></a>
+<!--<a href="http://www.github.com/itsmohamed205"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmohamed205&hide_border=true&layout=compact&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff" alt="Wakatime Stats" /></a> -->
 
 <b>Top Repositories</b>
 
