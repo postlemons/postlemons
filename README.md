@@ -4,12 +4,11 @@ Hi, my name is Mohamed ![wavegif](https://user-images.githubusercontent.com/1835
 JavaScript & TypeScript Developer, Student
 ------------------------------------------
 
-I've been learning how to code in JavaScript for 3 years, I spent a lot of time with NodeJS. I've created Kanna-San Discord bot & Nomyo Rainmeter skin.
+3 Years Experience in Javascript; Mostly in NodeJS. Experienced in Discord.js
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [dadaman498+contact@gmail.com](mailto:dadaman498+contact@gmail.com)
-* 🧠  I'm learning TypeScript
-* 🔮  Got any project ideas? Mail me one!
+* 🧠  I'm sharpenig my TypeScript
 
 ### Skills
 
