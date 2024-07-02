@@ -1,14 +1,14 @@
-Hi, my name is Mohamed ![wavegif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, my name is Lemons ![wavegif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
 JavaScript & TypeScript Developer, Student
 ------------------------------------------
 
-3 Years Experience in Javascript; Mostly in NodeJS. Experienced in Discord.js
+3 years experience in node.js and [discord.js](https://discordjs.guide)
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [dadaman498+contact@gmail.com](mailto:dadaman498+contact@gmail.com)
-* 🧠  I'm sharpenig my TypeScript
+* 🧠  I'm sharpening my TypeScript
 
 ### Skills
 
@@ -28,23 +28,21 @@ JavaScript & TypeScript Developer, Student
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/postlemons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/postlemons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/852730635063656462" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/postlemons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <!--<a href="http://www.github.com/itsmohamed205"><img src="https://github-readme-stats.vercel.app/api?username=itsmohamed205&show_icons=true&hide=&count_private=true&show=reviews,discussions_started,discussions_answered&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&show_icons=true" alt="itsmohamed205's GitHub stats" /></a>-->
 
 <a href="http://www.github.com/postlemons"><img src="https://github-readme-streak-stats.herokuapp.com/?user=postlemons&background=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&ring=E4BD20&fire=E77F1A&currStreakNum=ffffff&currStreakLabel=FFFFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Steak info" /></a>
 
-<a href="https://github.com/postlemons" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=postlemons&langs_count=10&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages Used" /></a>
+<!--<a href="https://github.com/postlemons" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=postlemons&langs_count=10&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages Used" /></a>-->
 
 <!--<a href="http://www.github.com/itsmohamed205"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmohamed205&hide_border=true&layout=compact&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff" alt="Wakatime Stats" /></a> -->
 
-<b>Top Repositories</b>
+<!--<b>Top Repositories</b>-->
 
-<div width="100%" align="center"><a href="https://github.com/postlemons/nomyo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=postlemons&repo=nomyo&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en" /></a><!--<a href="https://github.com/itsmohamed205/kanna-san" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmohamed205&repo=kanna-san&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en" /></a>--></div><br /><br /><br /><br /><br /><br /><br />
+<!--<div width="100%" align="center"><a href="https://github.com/postlemons/nomyo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=postlemons&repo=nomyo&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en" /></a>  <!--<a href="https://github.com/itsmohamed205/kanna-san" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmohamed205&repo=kanna-san&icon_color=0891b2&bg_color=40,0E0725,5C03BC,E536AB&title_color=fff&text_color=fff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />-->
 
 ### Support Me
 
