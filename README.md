@@ -1,5 +1,5 @@
 <h1 align="center">I'm Lemons 🍋</h1>  
-<h3 align="center">Javascript/Typescript Developer - Anime Weeb</h3>  
+<h3 align="center">Javascript/Typescript Developer</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=postlemons&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="postlemons" /> <img src="https://wakatime.com/badge/user/83026340-540b-49d8-bbed-0cdf43ca0e37.svg" alt"wakatime stats"/></p> 
 
